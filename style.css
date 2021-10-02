@@ -31,7 +31,7 @@ body {
     content: " ";
     height: 95vh;
     width: 100%;
-    background: rgb(47 47 44) url('/mytunes.jpg') no-repeat center/cover;
+    background: rgb(47 47 44) url('mytunes.jpg') no-repeat center/cover;
     position: absolute;
     z-index: -1;
     opacity: 0.6;
@@ -203,7 +203,7 @@ body {
 
 .section-4::before {
     content: " ";
-    background: url('/tyler-clemmensen-DQ_KYf1LF6E-unsplash.jpg') no-repeat center/cover;
+    background: url('tyler-clemmensen-DQ_KYf1LF6E-unsplash.jpg') no-repeat center/cover;
     position: absolute;
     height: 70vh;
     width: 100%;
